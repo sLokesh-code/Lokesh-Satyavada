@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LokeshRAGA
+- 👋 Hi, I’m @Lokesh.S
 - 👀 I’m interested in Entrepreneurship.
 - 🌱 I’m currently doing my BTech in ECE.
 - 💞️ I’m looking to collaborate on problem solving.
