@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![champagne-surprise](https://user-images.githubusercontent.com/78685005/236497394-4afd7855-bdee-471f-980b-796ef0846e28.gif)
 
-![awsimg](https://user-images.githubusercontent.com/78685005/236497520-a2413e4a-47eb-4689-9bdf-daa2ee919dc2.png)
+<!---![awsimg](https://user-images.githubusercontent.com/78685005/236497520-a2413e4a-47eb-4689-9bdf-daa2ee919dc2.png)--->
