@@ -8,9 +8,8 @@ https://simpleicons.org/
 
 -->
 <br>
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/lokesh-satyavada/)
+[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](lokesh.1512@hotmail.com)
 <br>
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Lokesh Satyavada</strong></samp></h2>
