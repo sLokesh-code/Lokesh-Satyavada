@@ -17,7 +17,7 @@ https://simpleicons.org/
 
 <p align='left'> 📫 A passionate  learner about tech and life.I work with cloud platforms like Amazon Web Services (AWS), Azure. I am skilled at configuring and managing virtual machines, containers, and serverless architectures.</p>
 
-As a cloud engineer and DevOps enthusiast who enjoys open source and coding, I have a passion for leveraging cloud technologies and automation to build efficient and scalable systems. My expertise lies in designing, deploying, and managing cloud-based infrastructure and applications.
+As a cloud engineer and DevOps enthusiast who enjoys solving problems and adding value to tech, I have a passion for leveraging cloud technologies and automation to build efficient and scalable systems. My expertise lies in designing, deploying, and managing cloud-based infrastructure and applications.
 
 💻 **Languages and Tools:** 🛠️<br>
 
