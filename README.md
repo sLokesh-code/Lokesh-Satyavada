@@ -33,7 +33,7 @@ As a cloud engineer and DevOps enthusiast who enjoys solving problems and adding
 
 🧐 **Knowledge of:**<br>
 
-`CI/CD pipelines`, `IaC`, `K8s`, `AWS - IAM`, `Scripting-Python,BASH`, `Cloud Monitoring`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+`CI/CD pipelines`, `IaC`, `K8s`, `Cloud Security`, `Scripting-Python,BASH`, `Cloud Monitoring`, `API`,`Micro-services`, `Object-Oriented Programming`, `data structures and algorithms`.
 
 
 <!-- 🌍 **Deployment platforms:**<br>
