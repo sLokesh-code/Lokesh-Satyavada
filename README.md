@@ -13,7 +13,7 @@ https://simpleicons.org/
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Lokesh Satyavada</strong></samp></h2>
 <h3 align='center'><strong><a href="https://www.lokesh-resume.co/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>| Cloud Engineer | Backend developer | DevOps Engineer |</p>
+<p align='center'>| Engineer |</p>
 
 <p align='left'> 📫 A passionate  learner about tech and life.I work with cloud platforms like Amazon Web Services (AWS), Azure. I am skilled at configuring and managing virtual machines, containers, and serverless architectures.</p>
 
